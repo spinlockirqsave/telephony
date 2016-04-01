@@ -1,1 +1,3 @@
 http://www.talkcentrix.com/firmware2
+
+http://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cuipph/7960g_7940g/mgcp/firmware/matrix/frmwrup.html
