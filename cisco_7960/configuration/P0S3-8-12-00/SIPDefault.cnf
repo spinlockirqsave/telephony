@@ -31,7 +31,7 @@ tftp_cfg_dir: "./"
 
 proxy_register: "1"
 timer_register_expires: "120"
-preferred_codec: "none"
+preferred_codec: "g711alaw"
 tos_media: "5"
 enable_vad: "0"
 dial_template: "dialplan"

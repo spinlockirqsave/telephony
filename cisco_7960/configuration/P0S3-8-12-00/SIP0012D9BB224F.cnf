@@ -2,19 +2,19 @@
 # SIP Configuration Generic File 
  
 # Line 1 appearance
-line1_name: 1010 
+line1_name: 1000 
 
 # Line 1 Registration Authentication 
-line1_authname: "1010"
+line1_authname: "1000"
 
 # Line 1 Registration Password
 line1_password: "1234"
 
 # Line 2 appearance
-line2_name: 1011
+line2_name: 1001
 
 # Line 2 Registration Authentication
-line2_authname: "1011"
+line2_authname: "10101"
 
 # Line 2 Registration Password
 line2_password: "1234"
@@ -25,13 +25,13 @@ line2_password: "1234"
 # All user_parameters have been removed
 
 # Phone Label (Text desired to be displayed in upper right corner)
-phone_label: "Peter's SIP 2"	; Has no effect on SIP messaging
+phone_label: "Peter's SIP 1"	; Has no effect on SIP messaging
 
 # Line 1 Display Name (Display name to use for SIP messaging)
-line1_displayname: "user 1010 Peter SIP 7960 FreeSWITCH"
+line1_displayname: "user 1000 Peter SIP 7960 FreeSWITCH"
 
 # Line 2 Display Name (Display name to use for SIP messaging)
-line2_displayname: "user 1011 Peter SIP 7960 FreeSWITCH"
+line2_displayname: "user 1001 Peter SIP 7960 FreeSWITCH"
 
 
 ####### New Parameters added in Release 3.0 ######
