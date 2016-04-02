@@ -3,28 +3,28 @@
  
 # Line 1 appearance
 line1_name: 1000 
-
+# Line 1 short description displayed on the phone
+line1_shortname: "Pit left 1000"
 # Line 1 Registration Authentication 
 line1_authname: "1000"
-
 # Line 1 Registration Password
 line1_password: "1234"
 
 # Line 2 appearance
 line2_name: 1001
-
+# Line 2 short description displayed on the phone
+line2_shortname: "Pit left 1001"
 # Line 2 Registration Authentication
 line2_authname: "1001"
-
 # Line 2 Registration Password
 line2_password: "1234"
 
 # Line 3 appearance
 line3_name: piotrgregor
-
+# Line 3 short description displayed on the phone
+line3_shortname: "Piotr Gregor (Me)"
 # Line 3 Registration Authentication
 line3_authname: "piotrgregor"
-
 # Line 3 Registration Password
 line3_password: "1234"
 
@@ -37,11 +37,13 @@ line3_password: "1234"
 phone_label: "Peter's SIP 1"	; Has no effect on SIP messaging
 
 # Line 1 Display Name (Display name to use for SIP messaging)
-line1_displayname: "user 1000 Peter SIP 7960 FreeSWITCH"
+line1_displayname: "user 1000 Peter SIP 7960G FreeSWITCH"
 
 # Line 2 Display Name (Display name to use for SIP messaging)
-line2_displayname: "user 1001 Peter SIP 7960 FreeSWITCH"
+line2_displayname: "user 1001 Peter SIP 7960G FreeSWITCH"
 
+# Line 3 Display Name (Display name to use for SIP messaging)
+line3_displayname: "user piotrgregor Piotr Gregor SIP 7960G FreeSWITCH"
 
 ####### New Parameters added in Release 3.0 ######
 

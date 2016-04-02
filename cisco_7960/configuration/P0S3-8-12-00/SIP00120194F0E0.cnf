@@ -3,22 +3,30 @@
  
 # Line 1 appearance
 line1_name: 1010 
-
+# Line 1 short description displayed on the phone
+line1_shortname: "Pit right 1010"
 # Line 1 Registration Authentication 
 line1_authname: "1010"
-
 # Line 1 Registration Password
 line1_password: "1234"
 
 # Line 2 appearance
 line2_name: 1011
-
+# Line 2 short description displayed on the phone
+line1_shortname: "Pit right 1011"
 # Line 2 Registration Authentication
 line2_authname: "1011"
-
 # Line 2 Registration Password
 line2_password: "1234"
 
+# Line 3 appearance
+line3_name: zabka
+# Line 3 short description displayed on the phone
+line3_shortname: "Zabka (zielona)"
+# Line 3 Registration Authentication
+line3_authname: "zabka"
+# Line 3 Registration Password
+line3_password: "1234"
 
 ####### New Parameters added in Release 2.0 #######
 
@@ -32,6 +40,9 @@ line1_displayname: "user 1010 Peter SIP 7960 FreeSWITCH"
 
 # Line 2 Display Name (Display name to use for SIP messaging)
 line2_displayname: "user 1011 Peter SIP 7960 FreeSWITCH"
+
+# Line 3 Display Name (Display name to use for SIP messaging)
+line3_displayname: "user zabka Zabka SIP 7960G FreeSWITCH"
 
 
 ####### New Parameters added in Release 3.0 ######
