@@ -14,9 +14,18 @@ line1_password: "1234"
 line2_name: 1001
 
 # Line 2 Registration Authentication
-line2_authname: "10101"
+line2_authname: "1001"
 
 # Line 2 Registration Password
+line2_password: "1234"
+
+# Line 3 appearance
+line2_name: piotrgrgor
+
+# Line 3 Registration Authentication
+line2_authname: "piotrgregor"
+
+# Line 3 Registration Password
 line2_password: "1234"
 
 
