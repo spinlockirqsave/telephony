@@ -1,0 +1,44 @@
+
+# SIP Configuration Generic File 
+ 
+# Line 1 appearance
+line1_name: "piotr"
+# Line 1 short description displayed on the phone
+line1_shortname: "Piotr Gregor"
+# Line 1 Registration Authentication 
+line1_authname: "piotr"
+# Line 1 Registration Password
+line1_password: "4444"
+
+# Line 2 appearance
+line2_name: "422"
+# Line 2 short description displayed on the phone
+line2_shortname: "Piotr"
+# Line 2 Registration Authentication 
+line2_authname: "422"
+# Line 2 Registration Password
+line2_password: "freeswitch11"
+
+####### New Parameters added in Release 2.0 #######
+
+# All user_parameters have been removed
+
+# Phone Label (Text desired to be displayed in upper right corner)
+phone_label: "Piotr Gregor | 01296 821 971 "	; Has no effect on SIP messaging
+
+# Line 1 Display Name (Display name to use for SIP messaging)
+line1_displayname: "Piotr Gregor 01296 821 971"
+
+# Line 2 Display Name (Display name to use for SIP messaging)
+line1_displayname: "Piotr Gregor @ pbx.freeswitch.com"
+
+####### New Parameters added in Release 3.0 ######
+
+# Phone Prompt (The prompt that will be displayed on console and telnet)
+phone_prompt:   "SIP Phone"      ; Limited to 15 characters (Default - SIP Phone) 
+
+# Phone Password (Password to be used for console or telnet login)
+phone_password: "cisco" ; Limited to 31 characters (Default - cisco)
+
+# User classifcation used when Registering [ none(default), phone, ip ]
+user_info: phone 
